@@ -28,4 +28,4 @@ In essence, **Slug Board** isn't just an app—it's a movement towards a more co
 
 Collaborated with: Emily Ho, Daphne Cheng, and Felicity Shih
 
-![photo](path/to/your/thank-you.png)
+![photo](thank-you.png)
