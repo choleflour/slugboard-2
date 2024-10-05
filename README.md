@@ -26,6 +26,7 @@ As we look ahead, **Slug Board** envisions an administrative system to tackle sp
 
 In essence, **Slug Board** isn't just an app—it's a movement towards a more connected and informed campus life. Join us as we continue to evolve, contribute, and make a lasting impact on the UCSC community.
 
+## 
 Collaborated with: Emily Ho, Daphne Cheng, and Felicity Shih
 
 ![photo](thank-you.png)
