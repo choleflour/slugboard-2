@@ -1,3 +1,12 @@
+# Project Demo 🔮
+
+https://youtu.be/wJMmsT6Vvq8
+
+
+![photo](thank-you.png)
+
+
+
 # Inspiration ✨
 
 Embark on a journey with **Slug Board** as we aim to revolutionize campus life at UCSC! College is a kaleidoscope of experiences, from forming lifelong friendships to discovering new passions. However, the dynamic campus environment often means missing out on valuable events. In response, we're building a centralized, open-sourced web application that facilitates easy communication and group sourcing. Say goodbye to FOMO and embrace a platform where the UCSC community can share, connect, and discover hidden gems together.
@@ -27,6 +36,4 @@ As we look ahead, **Slug Board** envisions an administrative system to tackle sp
 In essence, **Slug Board** isn't just an app—it's a movement towards a more connected and informed campus life. Join us as we continue to evolve, contribute, and make a lasting impact on the UCSC community. In collaboration with Emily Ho, Daphne Cheng, and Felicity Shih
 
 
-![photo](thank-you.png)
 
-<video src="https://youtu.be/FA2NREod2Vo" width="300" />
