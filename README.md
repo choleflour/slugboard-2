@@ -24,9 +24,9 @@ Our technological journey includes:
 
 As we look ahead, **Slug Board** envisions an administrative system to tackle spam effectively and plans to introduce a hover feature for event details. Our goal is to work towards inclusivity and accessibility.
 
-In essence, **Slug Board** isn't just an app—it's a movement towards a more connected and informed campus life. Join us as we continue to evolve, contribute, and make a lasting impact on the UCSC community.
+In essence, **Slug Board** isn't just an app—it's a movement towards a more connected and informed campus life. Join us as we continue to evolve, contribute, and make a lasting impact on the UCSC community. In collaboration with Emily Ho, Daphne Cheng, and Felicity Shih
 
-## 
-Collaborated with: Emily Ho, Daphne Cheng, and Felicity Shih
 
 ![photo](thank-you.png)
+
+<video src="https://youtu.be/FA2NREod2Vo" width="300" />
